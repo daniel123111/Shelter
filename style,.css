@@ -1,0 +1,11 @@
+body {
+    background-color: forestgreen;
+    color: white;
+    text-align: center;
+}
+.animals {
+    font-size: x-large;
+    font-weight: bold;
+    color: black;    
+    border: 1px solid black;
+}
